@@ -1,0 +1,4 @@
+runtime : java11
+entrypoint : java -cp FirstGradleHelloWorld.jar gradle.helloworld.HelloWorld
+#entrypoint : FirstGradleHelloWorld.jar
+#entrypoint : FirstGradleHelloWorld-1.0-SNAPSHOT.jar
